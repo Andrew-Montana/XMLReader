@@ -1,0 +1,9 @@
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\bin\Debug\xml reader.exe.config
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml reader.csprojResolveAssemblyReference.cache
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml_reader.Form1.resources
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml_reader.Properties.Resources.resources
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml reader.csproj.GenerateResource.Cache
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\bin\Debug\xml reader.exe
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\bin\Debug\xml reader.pdb
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml reader.exe
+D:\Penthouse\Комната Программирования\Проекты Visual\for fun\xml reader\xml reader\obj\Debug\xml reader.pdb
